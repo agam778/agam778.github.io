@@ -1,3 +1,3 @@
-# agam778.gitlab.io
+Visit My Website (GitLab) - https://agam778.gitlab.io
 
-Repository for my website
+Or Here (Github Mirror)   - https://agam778.github.io/public/
